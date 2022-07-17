@@ -38,7 +38,10 @@ Table Of Contents
 for Linear Regression 
 6. Model Building. 
 7. Model Evaluation. 
+
+
 Conclusion: 
+
 1. Company should focus more on expanding business during seas on_2 i.e Spring and mnth_9 i.e.
 September. 
 2. We have seen that there are less bookings during weathersit_3, the company should focus on using this time to sell the bikes with out facing any loss.
